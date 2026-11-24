@@ -1,0 +1,8 @@
+Hello 
+this 
+is 
+first 
+file 
+in 
+the 
+repo
